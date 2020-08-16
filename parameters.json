@@ -1,0 +1,48 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_kg_web_app_name": {
+            "value": null
+        },
+        "Redis_cache_web_name": {
+            "value": null
+        },
+        "sites_kg_sql_web_app_name": {
+            "value": null
+        },
+        "sites_azure_kg_funtion_name": {
+            "value": null
+        },
+        "frontdoors_kgfrontdoor_name": {
+            "value": null
+        },
+        "components_app_monitor_name": {
+            "value": null
+        },
+        "servers_azure_kg_mysql_name": {
+            "value": null
+        },
+        "serverfarms_Function_app_service_name": {
+            "value": null
+        },
+        "serverfarms_ASP_WebAssignment_9a63_name": {
+            "value": null
+        },
+        "storageAccounts_storageaccountwebasb7fe_name": {
+            "value": null
+        },
+        "frontdoorwebapplicationfirewallpolicies_policy_name": {
+            "value": null
+        },
+        "actionGroups_Application_Insights_Smart_Detection_name": {
+            "value": null
+        },
+        "dashboards_60731c7c_ae31_45af_871a_f98514427833_dashboard_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___app_monitor_name": {
+            "value": null
+        }
+    }
+}
